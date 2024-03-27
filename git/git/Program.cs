@@ -6,7 +6,9 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int szam =0 ;
+            szam = int.Parse(Console.ReadLine());
+
         }
     }
 }
